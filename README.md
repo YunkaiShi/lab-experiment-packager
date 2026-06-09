@@ -46,13 +46,13 @@ git clone https://github.com/YOUR_USERNAME/lab-experiment-packager.git ~/.claude
 在 Claude Code 中，你可以这样说：
 
 ```
-用 lab-experiment-packager 帮我完成实验三
+用 lab-experiment-packager 帮我完成X实验
 ```
 
 或：
 
 ```
-帮我完成这个机器学习实验，报告模板在实验三/14-实验报告-实验三.docx
+帮我完成这个实验，报告模板在.../实验报告X
 ```
 
 ---
